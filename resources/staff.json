@@ -1,0 +1,51 @@
+{
+"people": [{
+	"name": "azita farokhi",
+	"lat": 36.102114,
+	"long": 51.314380
+}, {
+	"name": "reza fathi",
+	"lat": 35.473864,
+	"long": 50.996500
+}, {
+	"name": "ali hasani",
+	"lat": 35.062500,
+	"long": 51.869124
+}, {
+	"name": "alireza miraghasi",
+	"lat": 35.817676,
+	"long": 51.516311
+}, {
+	"name": "danial mehri",
+	"lat": 34.812030,
+	"long": 51.142348
+}, {
+	"name": "sara haghpanah",
+	"lat": 31.343082,
+	"long": 48.718980
+}, {
+	"name": "sadegh ghanad",
+	"lat": 36.238740,
+	"long": 59.607258
+}, {
+	"name": "mahdi basiri",
+	"lat": 37.202621,
+	"long": 50.000112
+}, {
+	"name": "elahe tehrani",
+	"lat": 35.694900,
+	"long": 51.123990
+}, {
+	"name": "amir atashin",
+	"lat": 35.594515,
+	"long": 50.439965
+}, {
+	"name": "saeed shahinfar",
+	"lat": 35.779729,
+	"long": 51.374907
+}, {
+	"name": "mohsen dadashi",
+	"lat": 35.784655,
+	"long": 51.349018
+}]
+}
